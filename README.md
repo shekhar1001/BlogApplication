@@ -33,7 +33,7 @@ PostgreSQL or SQLite (default)
 Installation
 
 1.Clone the repository:
-git clone https://github.com/your-username/django-blog.git
+git clone https://github.com/shekhar1001/BlogApplication.git
 cd django-blog
 2.Create and activate a virtual environment:
 python -m venv venv
