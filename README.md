@@ -34,7 +34,7 @@ Installation
 
 1.Clone the repository:
 git clone https://github.com/shekhar1001/BlogApplication.git
-cd django-blog
+cd mysite
 2.Create and activate a virtual environment:
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
